@@ -1,2 +1,6 @@
 ECHO bekapcsolva
+<<<<<<< HEAD
 abc 
+=======
+lsd 
+>>>>>>> b360a13d0fb2a01ca4300e4aee6d14423f8ae7b9
